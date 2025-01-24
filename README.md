@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-# Sentiment Classification README - Humorous Edition
-
-print("""
 # Sentiment Classification with Machine Learning Approaches 🤖💬
 
 Welcome to **Sentimentville**, where words meet emotions, and Yelp reviews meet their destiny! 
