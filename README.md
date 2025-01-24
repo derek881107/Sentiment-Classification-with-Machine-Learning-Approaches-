@@ -47,17 +47,17 @@ pip install pandas scikit-learn vaderSentiment
 - Review:
 "The service is good, but location is hard to find. Sanitation is not very good with old facilities. Food served tasted extremely fishy."
 
-## Prediction: Negative 🙅
+Prediction: Negative 🙅
 - Reasoning: Let’s be honest—fishy food and poor sanitation never end well.
 - Review:
 "The restaurant is definitely one of my favorites. The food is absolutely delicious!"
 
-## Prediction: Positive 🌟
+Prediction: Positive 🌟
 - Reasoning: Favorites and delicious food? A recipe for positivity.
 - Review:
 "Friendly staff. Good food. Acceptable service."
 
-## Prediction: Positive 😊
+Prediction: Positive 😊
 - Reasoning: The staff carried the day, even if the service didn’t.
   
 ## 🤝 Acknowledgment
